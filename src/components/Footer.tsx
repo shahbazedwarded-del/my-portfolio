@@ -1,5 +1,5 @@
 export default function Footer() {
-  const currentYear = new Date().getFullYear();
+  const currentYear = 2026;
 
   const footerLinks = [
     { name: "Home", href: "#home" },
