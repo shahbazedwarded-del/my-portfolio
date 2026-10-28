@@ -25,12 +25,12 @@ export default function Hero() {
 
         {/* Name */}
         <h1 className="bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-5xl font-extrabold text-transparent sm:text-6xl md:text-7xl">
-          Shahbaz Khan
+          Ahmed Ali
         </h1>
 
         {/* Job Title */}
         <h2 className="mt-5 text-2xl font-semibold text-white sm:text-3xl md:text-4xl">
-          Frontend Developer
+          Full Stack Developer
         </h2>
 
         {/* Description */}
